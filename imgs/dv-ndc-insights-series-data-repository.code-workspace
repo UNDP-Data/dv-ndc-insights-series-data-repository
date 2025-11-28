@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../dv-ndc-insights-series-data-repository"
+	},
+	{
+		"path": "../data"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {}
+}
