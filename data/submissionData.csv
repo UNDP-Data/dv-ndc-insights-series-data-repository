@@ -1,14 +1,201 @@
-month,submissionCount
-Nov,2
-Dec,2
-Jan,3
-Feb,11
-Mar,0
-Apr,1
-May,2
-Jun,2
-Jul,2
-Aug,2
-Sep,32
-Oct,9
-Nov,18
+﻿"Country 
+(all UNFCCC Parties)",ISO Short,ISO Long,UNDP Region,UN Regional Group,UNSDG Region,LDC,SIDS,G20,NDC 3.0 Submitted,Submission Date,UNDP Support to NDC 3.0 development,UN System Support
+Afghanistan,AF,AFG,RBAP,Asia-Pacific Group,Asia Pacific,Yes,,,,,,
+Albania,AL,ALB,RBEC,Eastern European Group,Europe and Central Asia,,,,,,,
+Algeria,DZ,DZA,RBAS,African Group,Africa,,,,,,,
+Andorra,AD,AND,n/a,Western European and Others Group,n/a,,,,Yes,February,,
+Angola,AO,AGO,RBA,African Group,Africa,Yes,,,Yes,September,Yes,Yes
+Antigua and Barbuda,AG,ATG,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,Yes,Yes
+Argentina,AR,ARG,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,Yes,,,Yes,Yes
+Armenia,AM,ARM,RBEC,Eastern European Group,Europe and Central Asia,,,,,,Yes,Yes
+Australia,AU,AUS,n/a,Western European and Others Group,n/a,,,Yes,Yes,September,,
+Austria,AT,AUT,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Azerbaijan,AZ,AZE,RBEC,Eastern European Group,Europe and Central Asia,,,,Yes,November,,
+Bahamas,BS,BHS,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,Yes,November,,
+Bahrain,BH,BHR,RBAS,Asia-Pacific Group,Arab States,,,,,,,
+Bangladesh,BD,BGD,RBAP,Asia-Pacific Group,Asia Pacific,Yes,,,Yes,September,Yes,Yes
+Barbados,BB,BRB,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,Yes,August,Yes,Yes
+Belarus,BY,BLR,RBEC,Eastern European Group,Europe and Central Asia,,,,Yes,November,Yes,Yes
+Belgium,BE,BEL,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Belize,BZ,BLZ,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,Yes,June,Yes,Yes
+Benin,BJ,BEN,RBA,African Group,Africa,Yes,,,,,,
+Bhutan,BT,BTN,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,November,Yes,Yes
+Bolivia (Plurinational State of),BO,BOL,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,September,Yes,Yes
+Bosnia and Herzegovina,BA,BIH,RBEC,Eastern European Group,Europe and Central Asia,,,,,,Yes,Yes
+Botswana,BW,BWA,RBA,African Group,Africa,,,,,,Yes,Yes
+Brazil,BR,BRA,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,Yes,Yes,November 2024,,
+Brunei Darussalam,BN,BRN,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,November,,
+Bulgaria,BG,BGR,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Burkina Faso,BF,BFA,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Burundi,BI,BDI,RBA,African Group,Africa,Yes,,,Yes,November,Yes,Yes
+Cabo Verde,CV,CPV,RBA,African Group,Africa,,Yes,,Yes,November,Yes,Yes
+Cambodia,KH,KHM,RBAP,Asia-Pacific Group,Asia Pacific,Yes,,,Yes,August,Yes,Yes
+Cameroon,CM,CMR,RBA,African Group,Africa,,,,,,yes,Yes
+Canada,CA,CAN,n/a,Western European and Others Group,n/a,,,Yes,Yes,February,,
+Central African Republic,CF,CAF,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Chad,TD,TCD,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Chile,CL,CHL,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,September,Yes,Yes
+China,CN,CHN,RBAP,Asia-Pacific Group,Asia Pacific,,,Yes,Yes,November,,
+Colombia,CO,COL,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,November,Yes,Yes
+Comoros,KM,COM,RBA,African Group,Africa,Yes,Yes,,,,Yes,Yes
+Congo (Democratic Republic),CD,COD,RBA,African Group,Africa,Yes,,,,,0,Yes
+Congo (Republic),CG,COG,RBA,African Group,Africa,,,,,,Yes,Yes
+Cook Islands,CK,COK,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,,,yes,Yes
+Costa Rica,CR,CRI,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,,,Yes,Yes
+Cote d'Ivoire,CI,CIV,RBA,African Group,Africa,,,,Yes,October,Yes,Yes
+Croatia,HR,HRV,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Cuba,CU,CUB,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,Yes,February,Yes,Yes
+Cyprus,CY,CYP,n/a,Asia-Pacific Group,n/a,,,,Yes,November,,
+Czech Republic,CZ,CZE,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Denmark,DK,DNK,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Djibouti,DJ,DJI,RBAS,African Group,Africa,Yes,,,,,Support NDC 2.0 (not sure if cannot be considered NDC 3.0),
+Dominica,DM,DMA,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,Yes,Yes
+Dominican Republic,DO,DOM,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,Yes,Yes
+DPR Korea,KP,PRK,RBAP,Asia-Pacific Group,Asia Pacific,,,,,,,
+Ecuador,EC,ECU,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,February,Yes,Yes
+Egypt,EG,EGY,RBAS,African Group,Africa,,,,,,yes,Yes
+El Salvador,SV,SLV,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,,,Yes,Yes
+Equatorial Guinea,GQ,GNQ,RBA,African Group,Africa,,,,,,Yes,Yes
+Eritrea,ER,ERI,RBA,African Group,Africa,Yes,,,,,,
+Estonia,EE,EST,n/a,Eastern European Group,Africa,,,,Yes,November,,
+Eswatini (Swaziland),SZ,SWZ,RBA,African Group,Africa,,,,Yes,September,Yes,Yes
+Ethiopia,ET,ETH,RBA,African Group,Africa,Yes,,,Yes,November,Yes,Yes
+European Union,,,n/a,Western European and Others Group,n/a,,,Yes,Yes,November,,
+Fiji,FJ,FJI,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,November,Yes,Yes
+Finland,FI,FIN,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+France,FR,FRA,n/a,Western European and Others Group,n/a,,,Yes,Yes,November,,
+Gabon,GA,GAB,RBA,African Group,Africa,,,,,,Yes,Yes
+The Gambia,GM,GMB,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Georgia,GE,GEO,RBEC,Eastern European Group,Europe and Central Asia,,,,,,Yes,Yes
+Germany,DE,DEU,n/a,Western European and Others Group,n/a,,,Yes,Yes,November,,
+Ghana,GH,GHA,RBA,African Group,Africa,,,,,,Yes,Yes
+Greece,GR,GRC,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Grenada,GD,GRD,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,,
+Guatemala,GT,GTM,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,,,Yes,Yes
+Guinea,GN,GIN,RBA,African Group,Africa,Yes,,,Yes,November,Yes,Yes
+Guinea-Bissau,GW,GNB,RBA,African Group,Africa,Yes,Yes,,,,Yes,Yes
+Guyana,GY,GUY,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,0,
+Haiti,HT,HTI,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,Yes,Yes,,,,Yes,Yes
+Holy See,VA,VAT,n/a,Western European and Others Group,n/a,,,,Yes,September,,
+Honduras,HN,HND,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,,,Yes,Yes
+Hungary,HU,HUN,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Iceland,IS,ISL,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+India,IN,IND,RBAP,Asia-Pacific Group,Asia Pacific,,,Yes,,,,
+Indonesia,ID,IDN,RBAP,Asia-Pacific Group,Asia Pacific,,,Yes,Yes,October,Yes,Yes
+Iran (Islamic Rep. of),IR,IRN,RBAP,Asia-Pacific Group,Asia Pacific,,,,,,,
+Iraq,IQ,IRQ,RBAS,Asia-Pacific Group,Arab States,,,,,,Yes,Yes
+Ireland,IE,IRL,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Israel,IL,ISR,n/a,Western European and Others Group,n/a,,,,,,,
+Italy,IT,ITA,n/a,Western European and Others Group,n/a,,,Yes,Yes,November,,
+Jamaica,JM,JAM,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,Yes,September,,
+Japan,JP,JPN,n/a,Asia-Pacific Group,n/a,,,Yes,Yes,February,,
+Jordan,JO,JOR,RBAS,Asia-Pacific Group,Arab States,,,,,,Yes,Yes
+Kazakhstan,KZ,KAZ,RBEC,Asia-Pacific Group,Europe and Central Asia,,,,,,Yes,Yes
+Kenya,KE,KEN,RBA,African Group,Africa,,,,Yes,April,,
+Kiribati,KI,KIR,RBAP,Asia-Pacific Group,Asia Pacific,Yes,Yes,,,,,
+Korea (Rep. of),KR,KOR,RBAP,Asia-Pacific Group,n/a,,,Yes,,,,
+Kuwait,KW,KWT,RBAS,Asia-Pacific Group,Arab States,,,,,,,
+Kyrgyz Republic,KG,KGZ,RBEC,Asia-Pacific Group,Europe and Central Asia,,,,Yes,October,Yes,Yes
+Lao PDR,LA,LAO,RBAP,Asia-Pacific Group,Asia Pacific,Yes,,,,,Yes,Yes
+Latvia,LV,LVA,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Lebanon,LB,LBN,RBAS,Asia-Pacific Group,Arab States,,,,Yes,September,Yes,Yes
+Lesotho,LS,LSO,RBA,African Group,Africa,Yes,,,,,,
+Liberia,LR,LBR,RBA,African Group,Africa,Yes,,,Yes,September,Yes,Yes
+Libya,LY,LBY,RBAS,African Group,Africa,,,,,,Yes (first NDC but potentially considered NDC 3.0),Yes
+Liechtenstein,LI,LIE,n/a,Western European and Others Group,n/a,,,,Yes,September,,
+Lithuania,LT,LTU,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Luxembourg,LU,LUX,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Madagascar,MG,MDG,RBA,African Group,Africa,Yes,,,,,,
+Malawi,MW,MWI,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Malaysia,MY,MYS,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,October,Yes,Yes
+Maldives,MV,MDV,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,February,,
+Mali,ML,MLI,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Malta,MT,MLT,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Marshall Islands (Rep. of),MH,MHL,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,February,,
+Mauritania,MR,MRT,RBA,African Group,Africa,Yes,,,Yes,October,yes,Yes
+Mauritius,MU,MUS,RBA,African Group,Africa,,Yes,,Yes,November,,
+Mexico,MX,MEX,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,Yes,,,Yes,Yes
+Micronesia (Federated States of),FM,FSM,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,September,,
+Moldova (Rep. of),MD,MDA,RBEC,Eastern European Group,Europe and Central Asia,,,,Yes,May,yes,Yes
+Monaco,MC,MCO,n/a,Western European and Others Group,n/a,,,,Yes,July,,
+Mongolia,MN,MNG,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,September,Yes,Yes
+Montenegro,ME,MNE,RBEC,Eastern European Group,Europe and Central Asia,,,,Yes,February,Yes,Yes
+Morocco,MA,MAR,RBAS,African Group,Africa,,,,Yes,September,,
+Mozambique,MZ,MOZ,RBA,African Group,Africa,Yes,,,Yes,December,Yes,Yes
+Myanmar,MM,MMR,RBAP,Asia-Pacific Group,Asia Pacific,Yes,,,,,,
+Namibia,NA,NAM,RBA,African Group,Africa,,,,,,Yes,Yes
+Nauru,NR,NRU,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,,,,
+Nepal,NP,NPL,RBAP,Asia-Pacific Group,Asia Pacific,Yes,,,Yes,May,Yes,Yes
+Netherlands,NL,NLD,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+New Zealand,NZ,NZL,n/a,Western European and Others Group,n/a,,,,Yes,January,,
+Nicaragua,NI,NIC,n/a,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,September,,
+Niger,NE,NER,RBA,African Group,Africa,Yes,,,,,,
+Nigeria,NG,NGA,RBA,African Group,Africa,,,,Yes,September,Yes,Yes
+Niue,NU,NIU,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,July,Yes,Yes
+North Macedonia (Rep. of),MK,MKD,RBEC,Eastern European Group,Europe and Central Asia,,,,,,yes,Yes
+Norway,NO,NOR,n/a,Western European and Others Group,n/a,,,,Yes,June,,
+Oman,OM,OMN,n/a,Asia-Pacific Group,n/a,,,,,,,
+Pakistan,PK,PAK,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,September,Yes,Yes
+Palau,PW,PLW,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,,,,
+Palestine (State of),PS,PSE,RBAS,n/a,Arab States,,,,,,Yes,Yes
+Panama,PA,PAN,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,September,Yes,Yes
+Papua New Guinea,PG,PNG,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,,,Yes,Yes
+Paraguay,PY,PRY,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,November,Yes,Yes
+Peru,PE,PER,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,November,Yes,Yes
+Philippines,PH,PHL,RBAP,Asia-Pacific Group,Asia Pacific,,,,,,yes,Yes
+Poland,PL,POL,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Portugal,PT,PRT,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Qatar,QA,QAT,n/a,Asia-Pacific Group,n/a,,,,,,,
+Romania,RO,ROU,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Russian Federation,RU,RUS,n/a,Eastern European Group,n/a,,,Yes,Yes,September,,
+Rwanda,RW,RWA,RBA,African Group,Africa,Yes,,,Yes,November,yes,Yes
+Saint Kitts and Nevis,KN,KNA,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,,
+Saint Lucia,LC,LCA,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,Yes,February,Yes,Yes
+Saint Vincent & the Grenadines,VC,VCT,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,Support NDC 2.0,
+Samoa,WS,WSM,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,,,Yes,Yes
+San Marino,SM,SMR,n/a,Western European and Others Group,n/a,,,,,,,
+Sao Tome and Principe,ST,STP,RBA,African Group,Africa,,Yes,,Yes,September,Yes,Yes
+Saudi Arabia,SA,SAU,RBAS,Asia-Pacific Group,Arab States,,,Yes,,,,
+Senegal,SN,SEN,RBA,African Group,Africa,Yes,,,,,yes,Yes
+Serbia,RS,SRB,RBEC,Eastern European Group,Europe and Central Asia,,,,Yes,September,yes,Yes
+Seychelles,SC,SYC,RBA,African Group,Africa,,Yes,,Yes,September,Yes,Yes
+Sierra Leone,SL,SLE,RBA,African Group,Africa,Yes,,,,,,
+Singapore,SG,SGP,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,February,,
+Slovakia,SK,SVK,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Slovenia,SI,SVN,n/a,Eastern European Group,n/a,,,,Yes,November,,
+Solomon Islands,SB,SLB,RBAP,Asia-Pacific Group,Asia Pacific,Yes,Yes,,Yes,August,,Yes
+Somalia,SO,SOM,RBAS,African Group,Africa,Yes,,,Yes,June,Yes,Yes
+South Africa,ZA,ZAF,RBA,African Group,Africa,,,Yes,Yes,October,Yes,Yes
+South Sudan,SS,SSD,RBA,African Group,Africa,Yes,,,,,,
+Spain,ES,ESP,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Sri Lanka,LK,LKA,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,September,Yes,Yes
+Sudan,SD,SDN,RBAS,African Group,Africa,Yes,,,,,Yes (Pipeline),Yes
+Suriname,SR,SUR,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,Yes,Yes
+Sweden,SE,SWE,n/a,Western European and Others Group,n/a,,,,Yes,November,,
+Switzerland,CH,CHE,n/a,Western European and Others Group,n/a,,,,Yes,January,,
+Syrian Arab Republic,SY,SYR,RBAS,Asia-Pacific Group,Arab States,,,,,,,
+Tajikistan,TJ,TJK,RBEC,Asia-Pacific Group,Europe and Central Asia,,,,,,Yes,Yes
+Tanzania (United Rep. of),TZ,TZA,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Thailand,TH,THA,RBAP,Asia-Pacific Group,Asia Pacific,,,,Yes,September,Yes,Yes
+Timor-Leste,TL,TLS,RBAP,Asia-Pacific Group,Asia Pacific,Yes,Yes,,,,Yes,Yes
+Togo,TG,TGO,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+Tonga,TO,TON,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,September,,
+Trinidad and Tobago,TT,TTO,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,Yes,,,,Yes,Yes
+Tunisia,TN,TUN,RBAS,African Group,Africa,,,,,,Yes,Yes
+Turkiye,TR,TUR,RBEC,Western European and Others Group,Europe and Central Asia,,,Yes,Yes,November,Yes,Yes
+Turkmenistan,TM,TKM,RBEC,Asia-Pacific Group,Europe and Central Asia,,,,,,Yes,Yes
+Tuvalu,TV,TUV,RBAP,Asia-Pacific Group,Asia Pacific,Yes,Yes,,Yes,September,,
+Uganda,UG,UGA,RBA,African Group,Africa,Yes,,,,,Yes,Yes
+UK,GB,GBR,n/a,Western European and Others Group,n/a,,,Yes,Yes,January,,
+Ukraine,UA,UKR,RBEC,Eastern European Group,Europe and Central Asia,,,,Yes,November,yes,Yes
+United Arab Emirates,AE,ARE,RBAS,Asia-Pacific Group,Arab States,,,,Yes,November 2024,,
+Uruguay,UY,URY,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,December 2024,yes,Yes
+USA,US,USA,n/a,Western European and Others Group,n/a,,,Yes,Yes,December 2024,,
+Uzbekistan,UZ,UZB,RBEC,Asia-Pacific Group,Europe and Central Asia,,,,Yes,November,Yes,Yes
+Vanuatu,VU,VUT,RBAP,Asia-Pacific Group,Asia Pacific,,Yes,,Yes,September,0,Yes
+Venezuela (Bolivarian Rep. of),VE,VEN,RBLAC,Latin American and Caribbean Group,Latin America and the Caribbean,,,,Yes,November,,
+Viet Nam,VN,VNM,RBAP,Asia-Pacific Group,Asia Pacific,,,,,,Yes,Yes
+Yemen,YE,YEM,RBAS,Asia-Pacific Group,Arab States,Yes,,,,,,
+Zambia,ZM,ZMB,RBA,African Group,Africa,Yes,,,Yes,September,Yes,Yes
+Zimbabwe,ZW,ZWE,RBA,African Group,Africa,,,,Yes,February,Yes,Yes
+,,,,,,,,,,,,
