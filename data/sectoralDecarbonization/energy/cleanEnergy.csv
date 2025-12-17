@@ -1,97 +1,97 @@
-iso-3,country,bloc,solar,wind,geothermal,hydro,LDC,SIDS
-AND,Andorra,Non-OECD,1,2,0,0,No,No
-AGO,Angola,Non-OECD,2,1,0,2,Yes,No
-AUS,Australia,OECD / EU,0,1,0,0,No,No
-AZE,Azerbaijan,Non-OECD,1,1,0,1,No,No
-BHS,Bahamas,Non-OECD,2,1,0,0,No,Yes
-BGD,Bangladesh,Non-OECD,2,1,0,0,Yes,No
-BRB,Barbados,Non-OECD,2,2,0,2,No,Yes
-BLR,Belarus,Non-OECD,0,0,0,0,No,No
-BLZ,Belize,Non-OECD,2,2,1,1,No,Yes
-BTN,Bhutan,Non-OECD,2,1,1,2,Yes,No
-BOL,Bolivia,Non-OECD,1,1,1,1,No,No
-BWA,Botswana,Non-OECD,2,2,0,0,No,No
-BRA,Brazil,Non-OECD,1,1,0,0,No,No
-BRN,Brunei,Non-OECD,0,0,0,0,No,No
-BDI,Burundi,Non-OECD,1,1,0,1,Yes,No
-CPV,Cabo Verde,Non-OECD,2,2,0,0,No,Yes
-KHM,Cambodia,Non-OECD,1,1,0,1,Yes,No
-CAN,Canada,OECD / EU,2,2,0,2,No,No
-CHL,Chile,OECD / EU,1,1,1,1,No,No
-CHN,China,Non-OECD,2,2,1,1,No,No
-COL,Colombia,OECD / EU,0,0,0,0,No,No
-CRI,Costa Rica,OECD / EU,1,1,1,0,No,No
-CIV,Côte d'Ivoire,Non-OECD,2,2,0,2,No,No
-CUB,Cuba,Non-OECD,2,2,0,0,No,Yes
-DJI,Djibouti,Non-OECD,2,2,2,2,Yes,No
-ECU,Ecuador,Non-OECD,0,0,0,0,No,No
-SWZ,Eswatini,Non-OECD,2,1,1,2,No,No
-ETH,Ethiopia,Non-OECD,1,1,0,0,Yes,No
-EU,European Union,OECD / EU,0,0,0,0,No,No
-FJI,Fiji,Non-OECD,2,0,0,1,No,Yes
-GIN,Guinea,Non-OECD,1,0,0,1,Yes,No
-VAT,Holy See,Non-OECD,0,0,0,0,No,No
-HND,Honduras,Non-OECD,0,0,0,0,No,No
-ISL,Iceland,OECD / EU,0,0,0,0,No,No
-IDN,Indonesia,Non-OECD,2,1,1,2,No,No
-IRQ,Iraq,Non-OECD,0,0,0,0,No,No
-JAM,Jamaica,Non-OECD,0,0,0,0,No,Yes
-JPN,Japan,OECD / EU,0,0,0,0,No,No
-JOR,Jordan,Non-OECD,1,0,0,1,No,No
-KAZ,Kazakhstan,Non-OECD,1,1,0,1,No,No
-KEN,Kenya,Non-OECD,0,0,0,0,No,No
-KGZ,Kyrgyzstan,Non-OECD,2,2,0,2,No,No
-LBN,Lebanon,Non-OECD,1,0,0,0,No,No
-LSO,Lesotho,Non-OECD,2,0,0,0,Yes,No
-LBR,Liberia,Non-OECD,2,0,0,2,Yes,No
-LIE,Liechtenstein,Non-OECD,0,0,0,0,No,No
-MYS,Malaysia,Non-OECD,0,0,0,0,No,No
-MDV,Maldives,Non-OECD,1,0,0,0,No,Yes
-MHL,Marshall Islands,Non-OECD,2,0,0,0,No,Yes
-MRT,Mauritania,Non-OECD,2,2,0,0,Yes,No
-MUS,Mauritius,Non-OECD,2,1,0,0,No,Yes
-MEX,Mexico,OECD / EU,1,1,1,0,No,No
-FSM,Micronesia,Non-OECD,1,0,0,0,No,Yes
-MDA,Moldova,Non-OECD,2,2,0,0,No,No
-MCO,Monaco,Non-OECD,1,0,0,0,No,No
-MNG,Mongolia,Non-OECD,1,1,0,1,No,No
-MNE,Montenegro,Non-OECD,0,0,0,0,No,No
-MAR,Morocco,Non-OECD,2,2,0,2,No,No
-NPL,Nepal,Non-OECD,2,1,0,2,Yes,No
-NZL,New Zealand,OECD / EU,0,1,1,0,No,No
-NIC,Nicaragua,Non-OECD,2,2,2,2,No,No
-NGA,Nigeria,Non-OECD,2,0,0,2,No,No
-NIU,Niue,Non-OECD,1,0,0,0,No,No
-NOR,Norway,OECD / EU,0,0,0,0,No,No
-PAK,Pakistan,Non-OECD,1,1,0,1,No,No
-PRY,Paraguay,Non-OECD,2,2,0,1,No,No
-PER,Peru,Non-OECD,0,0,0,0,No,No
-QAT,Qatar,Non-OECD,2,0,0,0,No,No
-RUS,Russia,Non-OECD,1,1,0,1,No,No
-RWA,Rwanda,Non-OECD,2,0,0,2,Yes,No
-LCA,Saint Lucia,Non-OECD,1,1,2,0,No,Yes
-VCT,Saint Vincent and the Grenadines,Non-OECD,2,0,1,0,No,Yes
-STP,Sao Tome and Principe,Non-OECD,2,0,0,2,Yes,Yes
-SYC,Seychelles,Non-OECD,0,0,0,0,No,Yes
-SGP,Singapore,Non-OECD,2,0,0,0,No,Yes
-SLB,Solomon Islands,Non-OECD,2,0,0,2,Yes,Yes
-SOM,Somalia,Non-OECD,1,1,0,0,Yes,No
-ZAF,South Africa,Non-OECD,0,0,0,0,No,No
-LKA,Sri Lanka,Non-OECD,1,1,0,1,No,No
-SUR,Suriname,Non-OECD,2,1,0,1,No,Yes
-CHE,Switzerland,OECD / EU,0,0,0,0,No,No
-THA,Thailand,Non-OECD,0,0,0,0,No,No
-TON,Tonga,Non-OECD,2,2,0,0,No,Yes
-TUR,Turkey,OECD / EU,0,0,0,0,No,No
-TUV,Tuvalu,Non-OECD,2,1,0,0,Yes,Yes
-UKR,Ukraine,Non-OECD,0,0,0,0,No,No
-ARE,United Arab Emirates,Non-OECD,2,0,1,2,No,No
-GBR,United Kingdom of Great Britain and Northern Ireland,OECD / EU,1,1,0,0,No,No
-USA,United States of America,OECD / EU,1,1,0,0,No,No
-URY,Uruguay,Non-OECD,1,1,0,1,No,No
-UZB,Uzbekistan,Non-OECD,1,1,0,1,No,No
-VUT,Vanuatu,Non-OECD,1,1,1,1,Yes,Yes
-VEN,Venezuela,Non-OECD,2,2,0,2,No,No
-YEM,Yemen,Non-OECD,1,1,0,0,Yes,No
-ZMB,Zambia,Non-OECD,2,0,2,2,Yes,No
-ZWE,Zimbabwe,Non-OECD,2,2,0,0,No,No
+iso-3,country,bloc,solar,wind,geothermal,hydro,LDC,SIDS,G20
+AND,Andorra,Non-OECD,1,2,0,0,No,No,No
+AGO,Angola,Non-OECD,2,1,0,2,Yes,No,No
+AUS,Australia,OECD / EU,0,1,0,0,No,No,Yes
+AZE,Azerbaijan,Non-OECD,1,1,0,1,No,No,No
+BHS,Bahamas,Non-OECD,2,1,0,0,No,Yes,No
+BGD,Bangladesh,Non-OECD,2,1,0,0,Yes,No,No
+BRB,Barbados,Non-OECD,2,2,0,2,No,Yes,No
+BLR,Belarus,Non-OECD,0,0,0,0,No,No,No
+BLZ,Belize,Non-OECD,2,2,1,1,No,Yes,No
+BTN,Bhutan,Non-OECD,2,1,1,2,Yes,No,No
+BOL,Bolivia,Non-OECD,1,1,1,1,No,No,No
+BWA,Botswana,Non-OECD,2,2,0,0,No,No,No
+BRA,Brazil,Non-OECD,1,1,0,0,No,No,Yes
+BRN,Brunei,Non-OECD,0,0,0,0,No,No,No
+BDI,Burundi,Non-OECD,1,1,0,1,Yes,No,No
+CPV,Cabo Verde,Non-OECD,2,2,0,0,No,Yes,No
+KHM,Cambodia,Non-OECD,1,1,0,1,Yes,No,No
+CAN,Canada,OECD / EU,2,2,0,2,No,No,Yes
+CHL,Chile,OECD / EU,1,1,1,1,No,No,No
+CHN,China,Non-OECD,2,2,1,1,No,No,Yes
+COL,Colombia,OECD / EU,0,0,0,0,No,No,No
+CRI,Costa Rica,OECD / EU,1,1,1,0,No,No,No
+CIV,Côte d'Ivoire,Non-OECD,2,2,0,2,No,No,No
+CUB,Cuba,Non-OECD,2,2,0,0,No,Yes,No
+DJI,Djibouti,Non-OECD,2,2,2,2,Yes,No,No
+ECU,Ecuador,Non-OECD,0,0,0,0,No,No,No
+SWZ,Eswatini,Non-OECD,2,1,1,2,No,No,No
+ETH,Ethiopia,Non-OECD,1,1,0,0,Yes,No,No
+EU,European Union,OECD / EU,0,0,0,0,No,No,Yes
+FJI,Fiji,Non-OECD,2,0,0,1,No,Yes,No
+GIN,Guinea,Non-OECD,1,0,0,1,Yes,No,No
+VAT,Holy See,Non-OECD,0,0,0,0,No,No,No
+HND,Honduras,Non-OECD,0,0,0,0,No,No,No
+ISL,Iceland,OECD / EU,0,0,0,0,No,No,No
+IDN,Indonesia,Non-OECD,2,1,1,2,No,No,Yes
+IRQ,Iraq,Non-OECD,0,0,0,0,No,No,No
+JAM,Jamaica,Non-OECD,0,0,0,0,No,Yes,No
+JPN,Japan,OECD / EU,0,0,0,0,No,No,Yes
+JOR,Jordan,Non-OECD,1,0,0,1,No,No,No
+KAZ,Kazakhstan,Non-OECD,1,1,0,1,No,No,No
+KEN,Kenya,Non-OECD,0,0,0,0,No,No,No
+KGZ,Kyrgyzstan,Non-OECD,2,2,0,2,No,No,No
+LBN,Lebanon,Non-OECD,1,0,0,0,No,No,No
+LSO,Lesotho,Non-OECD,2,0,0,0,Yes,No,No
+LBR,Liberia,Non-OECD,2,0,0,2,Yes,No,No
+LIE,Liechtenstein,Non-OECD,0,0,0,0,No,No,No
+MYS,Malaysia,Non-OECD,0,0,0,0,No,No,No
+MDV,Maldives,Non-OECD,1,0,0,0,No,Yes,No
+MHL,Marshall Islands,Non-OECD,2,0,0,0,No,Yes,No
+MRT,Mauritania,Non-OECD,2,2,0,0,Yes,No,No
+MUS,Mauritius,Non-OECD,2,1,0,0,No,Yes,No
+MEX,Mexico,OECD / EU,1,1,1,0,No,No,Yes
+FSM,Micronesia,Non-OECD,1,0,0,0,No,Yes,No
+MDA,Moldova,Non-OECD,2,2,0,0,No,No,No
+MCO,Monaco,Non-OECD,1,0,0,0,No,No,No
+MNG,Mongolia,Non-OECD,1,1,0,1,No,No,No
+MNE,Montenegro,Non-OECD,0,0,0,0,No,No,No
+MAR,Morocco,Non-OECD,2,2,0,2,No,No,No
+NPL,Nepal,Non-OECD,2,1,0,2,Yes,No,No
+NZL,New Zealand,OECD / EU,0,1,1,0,No,No,No
+NIC,Nicaragua,Non-OECD,2,2,2,2,No,No,No
+NGA,Nigeria,Non-OECD,2,0,0,2,No,No,No
+NIU,Niue,Non-OECD,1,0,0,0,No,No,No
+NOR,Norway,OECD / EU,0,0,0,0,No,No,No
+PAK,Pakistan,Non-OECD,1,1,0,1,No,No,No
+PRY,Paraguay,Non-OECD,2,2,0,1,No,No,No
+PER,Peru,Non-OECD,0,0,0,0,No,No,No
+QAT,Qatar,Non-OECD,2,0,0,0,No,No,No
+RUS,Russia,Non-OECD,1,1,0,1,No,No,Yes
+RWA,Rwanda,Non-OECD,2,0,0,2,Yes,No,No
+LCA,Saint Lucia,Non-OECD,1,1,2,0,No,Yes,No
+VCT,Saint Vincent and the Grenadines,Non-OECD,2,0,1,0,No,Yes,No
+STP,Sao Tome and Principe,Non-OECD,2,0,0,2,Yes,Yes,No
+SYC,Seychelles,Non-OECD,0,0,0,0,No,Yes,No
+SGP,Singapore,Non-OECD,2,0,0,0,No,Yes,No
+SLB,Solomon Islands,Non-OECD,2,0,0,2,Yes,Yes,No
+SOM,Somalia,Non-OECD,1,1,0,0,Yes,No,No
+ZAF,South Africa,Non-OECD,0,0,0,0,No,No,Yes
+LKA,Sri Lanka,Non-OECD,1,1,0,1,No,No,No
+SUR,Suriname,Non-OECD,2,1,0,1,No,Yes,No
+CHE,Switzerland,OECD / EU,0,0,0,0,No,No,No
+THA,Thailand,Non-OECD,0,0,0,0,No,No,No
+TON,Tonga,Non-OECD,2,2,0,0,No,Yes,No
+TUR,Turkiye,OECD / EU,0,0,0,0,No,No,Yes
+TUV,Tuvalu,Non-OECD,2,1,0,0,Yes,Yes,No
+UKR,Ukraine,Non-OECD,0,0,0,0,No,No,No
+ARE,United Arab Emirates,Non-OECD,2,0,1,2,No,No,No
+GBR,United Kingdom of Great Britain and Northern Ireland,OECD / EU,1,1,0,0,No,No,Yes
+USA,United States of America,OECD / EU,1,1,0,0,No,No,Yes
+URY,Uruguay,Non-OECD,1,1,0,1,No,No,No
+UZB,Uzbekistan,Non-OECD,1,1,0,1,No,No,No
+VUT,Vanuatu,Non-OECD,1,1,1,1,Yes,Yes,No
+VEN,Venezuela,Non-OECD,2,2,0,2,No,No,No
+YEM,Yemen,Non-OECD,1,1,0,0,Yes,No,No
+ZMB,Zambia,Non-OECD,2,0,2,2,Yes,No,No
+ZWE,Zimbabwe,Non-OECD,2,2,0,0,No,No,No
