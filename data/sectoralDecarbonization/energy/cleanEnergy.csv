@@ -4,6 +4,7 @@ AGO,Angola,Non-OECD,2,1,0,2,Yes,No,No
 AUS,Australia,OECD / EU,0,1,0,0,No,No,Yes
 AZE,Azerbaijan,Non-OECD,1,1,0,1,No,No,No
 BHS,Bahamas,Non-OECD,2,1,0,0,No,Yes,No
+BHR,Bahrain,Non-OECD,1,0,0,0,No,No,No
 BGD,Bangladesh,Non-OECD,2,1,0,0,Yes,No,No
 BRB,Barbados,Non-OECD,2,2,0,2,No,Yes,No
 BLR,Belarus,Non-OECD,0,0,0,0,No,No,No
@@ -64,6 +65,7 @@ NGA,Nigeria,Non-OECD,2,0,0,2,No,No,No
 NIU,Niue,Non-OECD,1,0,0,0,No,No,No
 NOR,Norway,OECD / EU,0,0,0,0,No,No,No
 PAK,Pakistan,Non-OECD,1,1,0,1,No,No,No
+PAN,Panama,Non-OECD,0,0,0,0,No,No,No
 PRY,Paraguay,Non-OECD,2,2,0,1,No,No,No
 PER,Peru,Non-OECD,0,0,0,0,No,No,No
 QAT,Qatar,Non-OECD,2,0,0,0,No,No,No
@@ -72,7 +74,9 @@ RWA,Rwanda,Non-OECD,2,0,0,2,Yes,No,No
 LCA,Saint Lucia,Non-OECD,1,1,2,0,No,Yes,No
 VCT,Saint Vincent and the Grenadines,Non-OECD,2,0,1,0,No,Yes,No
 STP,Sao Tome and Principe,Non-OECD,2,0,0,2,Yes,Yes,No
+SRB,Serbia,OECD / EU,0,0,0,0,No,No,No
 SYC,Seychelles,Non-OECD,0,0,0,0,No,Yes,No
+SLE,Sierra Leone,Non-OECD,2,0,0,2,Yes,No,No
 SGP,Singapore,Non-OECD,2,0,0,0,No,Yes,No
 SLB,Solomon Islands,Non-OECD,2,0,0,2,Yes,Yes,No
 SOM,Somalia,Non-OECD,1,1,0,0,Yes,No,No
@@ -82,6 +86,7 @@ SUR,Suriname,Non-OECD,2,1,0,1,No,Yes,No
 CHE,Switzerland,OECD / EU,0,0,0,0,No,No,No
 THA,Thailand,Non-OECD,0,0,0,0,No,No,No
 TON,Tonga,Non-OECD,2,2,0,0,No,Yes,No
+TUN,Tunisia,Non-OECD,0,0,0,0,No,No,No
 TUR,Turkiye,OECD / EU,0,0,0,0,No,No,Yes
 TUV,Tuvalu,Non-OECD,2,1,0,0,Yes,Yes,No
 UKR,Ukraine,Non-OECD,0,0,0,0,No,No,No
@@ -95,3 +100,4 @@ VEN,Venezuela,Non-OECD,2,2,0,2,No,No,No
 YEM,Yemen,Non-OECD,1,1,0,0,Yes,No,No
 ZMB,Zambia,Non-OECD,2,0,2,2,Yes,No,No
 ZWE,Zimbabwe,Non-OECD,2,2,0,0,No,No,No
+
