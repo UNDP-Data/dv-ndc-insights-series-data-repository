@@ -1,4 +1,4 @@
-iso-3,country,bloc,RE deployment/ clean energy target,Energy efficiency target,No new coal power plants,Phase down of unabated coal power,Pathways to wind down oil and gas production,Reducing fossil fuels' share of the electricity mix,Phase out of inefficient fossil fuel subsidies,Expanding grid infrastructure and energy storage capacity,LDC,SIDS,G20
+iso-3,country,bloc,Renewable energy deployment,Energy efficiency improvements,No new coal power plants,Phase down of unabated coal power,Pathways to wind down oil and gas production,Reduction fossil fuels' share of the electricity mix,Phase out of inefficient fossil fuel subsidies,Expanding grid infrastructure and energy storage capacity,LDC,SIDS,G20
 AFG,Afghanistan,Non-OECD,,,,,,,,,Yes,No,No
 ALB,Albania,Non-OECD,,,,,,,,,No,No,No
 DZA,Algeria,Non-OECD,,,,,,,,,No,No,No
@@ -193,3 +193,4 @@ VNM,Viet Nam,Non-OECD,,,,,,,,,No,No,No
 YEM,Yemen,Non-OECD,4,2,5,5,1,4,1,1,Yes,No,No
 ZMB,Zambia,Non-OECD,1,1,1,1,5,1,1,1,Yes,No,No
 ZWE,Zimbabwe,Non-OECD,4,4,1,1,1,1,1,3,No,No,No
+
